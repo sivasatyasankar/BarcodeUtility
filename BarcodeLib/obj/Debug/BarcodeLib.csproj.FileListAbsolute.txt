@@ -1,0 +1,7 @@
+C:\Siva\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Siva\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Siva\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb

@@ -1,0 +1,5 @@
+C:\Siva\barcode_src\BarcodeLib\bin\Debug\BarcodeUtility.dll
+C:\Siva\barcode_src\BarcodeLib\bin\Debug\BarcodeUtility.pdb
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeUtility.csproj.CoreCompileInputs.cache
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeUtility.dll
+C:\Siva\barcode_src\BarcodeLib\obj\Debug\BarcodeUtility.pdb

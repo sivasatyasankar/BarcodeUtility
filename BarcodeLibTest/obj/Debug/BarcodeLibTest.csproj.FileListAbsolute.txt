@@ -1,0 +1,15 @@
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csprojResolveAssemblyReference.cache
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.CoreCompileInputs.cache
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeUtility.dll
+C:\Siva\barcode_src\BarcodeLibTest\bin\Debug\BarcodeUtility.pdb
+C:\Siva\barcode_src\BarcodeLibTest\obj\Debug\BarcodeUtilityTest.TestApp.resources
